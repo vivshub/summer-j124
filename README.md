@@ -1,2 +1,2 @@
-# summer-j124
-work for summer J124 class
+# Markdown guide for J124
+## how to format a .md file
